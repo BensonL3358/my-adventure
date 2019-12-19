@@ -5,4 +5,4 @@ You want to find Bigfoot because yes. You want to look somewhere but you don't k
 
 
 [Search in city](city.md)
-![city](cityimage.jpeg)
+![city](cityimage.jpg)

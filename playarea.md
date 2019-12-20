@@ -1,1 +1,1 @@
-You walked into the play area and saw Bigfoot terriozing kids.
+You walked into the play area and saw Bigfoot terrorizing kids.

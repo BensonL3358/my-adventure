@@ -4,4 +4,4 @@
 
 this was made by [Benson](github.com/BensonL3358)
 
-[this](map.png)
+![this](map.png)

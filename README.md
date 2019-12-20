@@ -4,4 +4,4 @@
 
 this was made by [Benson](github.com/BensonL3358)
 
-![this](map.png)
+[dont click plz ok yes thank](map.png)
